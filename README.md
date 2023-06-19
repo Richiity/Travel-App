@@ -21,7 +21,8 @@ user experience. Incorporate budgeting feature where users can add and track
 expenses for their trip. Integrate with a weather API to display weather conditions
 for the user's selected location
 
-![image](https://github.com/PlamediD/Traveler-app-/assets/83699098/8974495e-9530-454b-8d9a-8149e1c48832)
+![image](https://github.com/PlamediD/Traveler-app-/assets/39109271/1bbd86ef-96a5-4f1e-aa37-2b0eebcf7205)
+![image](https://github.com/Richiity/Travel-App/assets/39109271/6b8d00a6-0459-461b-a56a-bdb917fa6072)
 
 
 Users can now set a budget for their trip. Testing was added for this functionality, and there is also a weather API. Tests have been provided for the new functionality.
@@ -32,4 +33,6 @@ destination improve app performance, security, and overall user experience. Addi
 Finally, the app is now using firebase for data storage. 
 Test user experience
 
+
+![image](https://github.com/Richiity/Travel-App/assets/39109271/117c44e8-8add-4c56-9b5b-1c8fcf4d7b74)
 
